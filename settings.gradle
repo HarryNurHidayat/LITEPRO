@@ -1,0 +1,2 @@
+rootProject.name = "LITEPRO"
+include ':app'
